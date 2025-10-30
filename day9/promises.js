@@ -33,5 +33,5 @@ const orderCoffee = async () => {
 //     waitFun(4000, "Make some order.")
 //         .then(() => waitFun(2000, "Brewing Coffee."))
 //         .then(() => waitFun(3000, "Serving Coffee."))
-//         .then(() => waitFun(1000, "Thankyou for the visiting."));
+//         .then(() => waitFun(1 000, "Thankyou for the visiting."));
 // }
