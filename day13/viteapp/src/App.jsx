@@ -15,6 +15,8 @@ function App() {
           <Route path="/products" element={<Body />}></Route>
         </Routes>
       </Router>
+      <h1>Welcome to Vite App</h1>
+
       <Footer />
     </div>
   )
