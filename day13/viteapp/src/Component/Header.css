@@ -1,0 +1,16 @@
+.header{
+    background-color: orange;
+}
+.nav-items{
+    display: flex;
+    gap:20px;
+}
+.nav-items a{
+    text-decoration: none;
+    color: white;
+    font:bold;
+    font-size: 32px;
+}
+.nav-items a:hover{
+    color: black;
+}
